@@ -1,4 +1,4 @@
-# Project Title: Automate Demoney Fin-tech API by postman & Newman
+# Project Title: Automate Dmoney Fin-tech API by postman & Newman
 ## Project Summary: The Dmoney API testing project aims to validate the functionality and reliability of the Dmoney server APIs. The tests cover various endpoints and scenarios to ensure robust performance and accurate responses.
 
 ## Prerequisites
